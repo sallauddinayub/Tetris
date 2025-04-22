@@ -1,2 +1,11 @@
 # Tetris
-A classic Tetris game for Android built with Java and XML. Features include colorful blocks, score tracking, hard mode, and intuitive touch controls. Simple UI with smooth gameplay, pause/resume options, and block rotation. Perfect for retro gaming fans on mobile!
+
+Tetris game for Android
+
+<img src="images/game_start.png" width="200">.  <img src="images/game_play.gif" width="200">.  <img src="images/game_over1.png" width="200">
+
+
+# Build
+```bash
+ ./gradlew assembleDebug
+```
